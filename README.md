@@ -203,3 +203,12 @@ Star the repo if you find it useful!
 **Made for airline technical teams, MRO providers, continuing airworthiness managers, and aviation digitalization specialists.**  
 
 Let's expand open tools for emerging aircraft and research while recognizing the depth, compliance, and operational maturity that leading commercial aviation MRO platforms deliver.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Maintenance-Repair-n-Overhaul&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Maintenance-Repair-n-Overhaul_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Maintenance-Repair-n-Overhaul_growth.svg">
+  </picture>
+</a>
