@@ -47,7 +47,7 @@
 
 ## 💻 Open-Source GitHub Projects
 
-| Open-Source Project | Description & Core Focus | Star Count |
+| Open-Source Project | Description & Core Focus | Stars_Count |
 | :--- | :--- | :--- |
 | **[Grashjs/cmms](https://github.com/Grashjs/cmms)** | Self-hosted CMMS web & mobile application that allows managing enterprise maintenance, work orders, and asset tracking. | [<img src="https://img.shields.io/github/stars/Grashjs/cmms?style=social&color=white" alt="Grashjs/cmms stars"/>](https://github.com/Grashjs/cmms/stargazers) |
 | **[ibuilder/massing](https://github.com/ibuilder/massing)** | Open IFC-native AEC platform with facility condition, work order management, and CMMS operate/dispose modules. | [<img src="https://img.shields.io/github/stars/ibuilder/massing?style=social&color=white" alt="ibuilder/massing stars"/>](https://github.com/ibuilder/massing/stargazers) |
